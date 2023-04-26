@@ -1,0 +1,25 @@
+{
+  "toDoList" :"قائمة المهام",
+  "title":"العنوان",
+   "addNewTask":"أضافت مهمة جديدة",
+    "descrabtion":"الوصف",
+     "selectData": "اختار التاريخ",
+       "addTask":"اضافة المهمة",
+         "setting":"الاعدادات",
+         "list":"القائمة",
+           "language":"اللغة",
+             "areYouSureAddTask":"هل أنت متأكد من أضافة المهمة",
+              "yes":"نعم",
+               "cencal":"لا",
+                 "editTask":"تعديل المهمة",
+                 "editTitle":" تعديل العنوان",
+                 "editDescrabtion":"تعديل الوصف",
+                 "editSelectData":"تعديل التاريخ",
+                 "saveChanges": "حفظ التعديل",
+                   "pleaseEntarTitle":"من فضلك أضف العنوان",
+                   "pleaseEntarDescrbtion":"من فضلك أضف الوصف",
+                     "arabic":"العربية",
+                       "english":"الإنجليزية"
+
+
+}

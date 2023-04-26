@@ -1,0 +1,26 @@
+{
+  "toDoList": "ToDo List",
+  "title": "Title",
+  "addNewTask": "Add New Task",
+  "descrabtion": "Descrabtion",
+  "selectData": "Select Data ",
+  "addTask": "ADD Task",
+  "setting": "Setting",
+  "list": "List",
+  "language": "Language",
+  "areYouSureAddTask": "Are You Sure Add Task",
+  "yes": "Yes",
+  "cencal": "Cencal",
+    "editTask":"Edit Task",
+  "editTitle":"Edit Title",
+  "editDescrabtion":"Edit Descrabtion",
+  "editSelectData":"Edit Select Data",
+  "saveChanges": "Save Changes ",
+  "pleaseEntarTitle":"Please Entar Title",
+  "pleaseEntarDescrbtion":"Please Entar Descrbtion",
+  "arabic": "Arabic",
+  "english":"English"
+
+
+
+}
